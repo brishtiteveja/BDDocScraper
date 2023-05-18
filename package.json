@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "puppeteer": "^20.2.1",
+    "puppeteer-core": "^20.2.1",
+    "truffle": "^5.7.7"
+  },
+  "type": "module",
+  "name": "doc_bd_scraper",
+  "version": "1.0.0",
+  "description": "Scraper to scrape doctor database in db",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Abdullah Khan Zehady",
+  "license": "ISC"
+}
