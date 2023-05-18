@@ -6,3 +6,5 @@ Web scraper to scrape specialized doctors in bangladesh
 To scrape all doctors by city, run
 
 `node index_get_specialist_list.js`
+
+The current full list is located in the specialist_doctors_by_city.json
