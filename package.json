@@ -5,7 +5,6 @@
     "puppeteer-core": "^20.2.1",
     "truffle": "^5.7.7"
   },
-  "type": "module",
   "name": "doc_bd_scraper",
   "version": "1.0.0",
   "description": "Scraper to scrape doctor database in db",
